@@ -1,0 +1,32 @@
+#footer{
+    /* display: flex; */
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    height: 90px;
+    background-color: rgb(240, 240, 240);
+    padding: 10px;  
+}
+
+ input{
+    padding-left: 20px;
+    width: 90%;
+    height: 70px;
+    outline: none;
+    border: none;
+}
+
+#sendButton{
+    width: 85px;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(21, 202, 21);
+    color: white;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
